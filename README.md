@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @figipef
 - 👀 I’m interested in Physics and programming projects
-- 🌱 I’m currently learning python and C
+- 🌱 Confortable in Python and C++
 - 💞️ I’m looking to collaborate on any opensource project or an independent idea
 - 📫 How to reach me you can contact me through andrewphilipbusiness@gmail.com
 
